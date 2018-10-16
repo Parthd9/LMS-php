@@ -1,5 +1,9 @@
 # LMS-php
 Some common features of Library Management System for librarians and users.
+
+
+
+
 Database:lms
 Tables:
 book(id(primary),book_name,book_author,book_quantity,book_price)
