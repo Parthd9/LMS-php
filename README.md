@@ -1,2 +1,2 @@
 # LMS-php
-Some common features of Library Management Syustem for librarians and users.
+Some common features of Library Management System for librarians and users.
